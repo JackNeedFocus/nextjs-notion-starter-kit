@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'bb993dbead444ec68e271deb4fd5b696',
+  rootNotionPageId: 'fdb28d04ad82409587d56e2f8875cd9e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Jack Need Focus',
-  domain: 'https://www.notion.so/JackNeedFocus-bb993dbead444ec68e271deb4fd5b696',
+  domain: 'https://www.notion.so/JackNeedFocus-fdb28d04ad82409587d56e2f8875cd9e',
   author: 'Jack Deng',
 
   // open graph metadata (optional)
